@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObjectDetection/darknet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObjectDetection/object-detection-opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObjectDetection/pytorch-retinanet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQGAME_GITHUB/Squid-Game" vcs="Git" />
+  </component>
+</project>
