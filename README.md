@@ -10,7 +10,3 @@ Red Light Green Light game from Squid Game
 `3. Get closer to the device with the green light`
 
 `4. When you reach the device, press the space bar`
-
-`5. You win`
-
-
